@@ -1,0 +1,9 @@
+Run "Main.m"
+
+or use Optimize function in "Optimize.m"
+with
+   A = adjacency matrix
+   m = the number of control nodes
+   withFigure = for showing optimization trend
+
+Omid.
